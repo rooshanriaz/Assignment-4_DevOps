@@ -17,7 +17,8 @@ This repository contains the fourth assignment for the **DevOps** course at GIKI
 - Git & GitHub
 - Bash scripting
 - Shell (Linux)
-- Python (if applicable)
+- Terraform
+- Docker
 
 ## 🚀 How to Run
 
