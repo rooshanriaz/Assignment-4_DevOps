@@ -4,14 +4,6 @@ This repository contains the fourth assignment for the **DevOps** course at GIKI
 
 ## Structure
 
-
-## 📌 Objectives
-
-- Understand and apply **Git** commands in a real-world scenario.
-- Learn to manage repositories, commits, branches, and merges.
-- Practice writing and executing shell scripts.
-- Explore automated deployment basics.
-
 ## 🛠️ Technologies Used
 
 - Git & GitHub
